@@ -1,29 +1,8 @@
-# README #
+# POLY ROMs #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Permission has been gained from the authors and copyright holders (Neil Scott and Perce Harpham) to release these to the public.
 
-### What is this repository for? ###
+This repo contains the dumps of the different version of the Poly 1 and Poly 2 ROMs
+that have been seen throughout the Poly Preseration Project. Those vesions include
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Version 3.4
